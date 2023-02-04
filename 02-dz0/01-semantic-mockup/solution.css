@@ -1,0 +1,60 @@
+header {
+  box-sizing: border-box;
+  background-color: rgb(131, 0, 0);
+}
+
+h1 {
+  font-family: Montserrat;
+  color: rgb(237, 231, 231);
+  font-size: 160%;
+  text-align: center;
+  
+}
+
+h2 {
+  margin: 0;
+  font-family: Montserrat;
+  color: rgb(237, 231, 231);
+  font-size: 80%;
+}
+
+ul {
+  margin: 0;
+}
+
+ol {
+  margin: 0;
+}
+
+nav {
+  background-color: rgb(254, 206, 47);
+  text-align: center;
+}
+
+main {
+  box-sizing: border-box;
+  padding: 10px;
+  background-color: rgb(28, 188, 140);
+}
+
+article {
+  padding: 10px;
+  background-color: rgb(21, 84, 143);
+  color: rgb(237, 231, 231);
+  margin-bottom: 10px;
+}
+
+article:last-child {
+  margin-bottom: 0;
+
+}
+
+footer {
+  height: 60px;
+  background-color: purple;
+  font-family: Montserrat;
+  color: rgb(237, 231, 231);
+  font-size: 120%;
+  text-align: center;
+  line-height: 60px;
+}
